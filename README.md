@@ -1,7 +1,3 @@
-Este é um modelo de **README.md** estruturado para a sua atividade. Ele explica a teoria por trás do algoritmo, como ele foi aplicado ao seu grafo específico e o que cada parte do código Python faz.
-
------
-
 # Resolução: Algoritmo de Dijkstra
 
 Este repositório contém a resolução da atividade prática sobre o **Algoritmo de Dijkstra**, um algoritmo guloso (greedy) utilizado para encontrar os caminhos mais curtos entre um nó de origem e todos os outros nós em um grafo com pesos de aresta não negativos.
